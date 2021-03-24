@@ -1,1 +1,1 @@
-JokesApp built with C#
+JokesApp built with C#..still in development
